@@ -105,6 +105,7 @@ Clone this repository
 
 github(url):https://github.com/ankitmor96/amazon-
 
+netlify(url):https://calm-pithivier-47413a.netlify.app
 
 Open index.html in your browser
 
