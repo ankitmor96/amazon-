@@ -103,7 +103,7 @@ Image gallery hover animation
 
 Clone this repository
 
-git clone(url) https://https://github.com/ankitmor96/amazon-
+github(url):https://github.com/ankitmor96/amazon-
 
 
 Open index.html in your browser
